@@ -1,0 +1,15 @@
+Faça um Blog usando django:
+Para dar certo deve ter:
+1. Dashboard 
+2. Lista de posts (Deve ser possível adicionar, remover ou editar nessa página)
+3. Novo post
+
+Todo post deve ter uma data de postagem, título e conteúdo
+
+A página de post deve ter um editor WYSWYG
+
+Use PostgreSQL como database
+O front deve ser feito com react
+ou, pode usar as páginas estáticas do django, sua escolha
+
+(no caso será com páginas estáticas do django e usando bootstrap)
