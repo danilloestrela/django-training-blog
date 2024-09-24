@@ -1,0 +1,3 @@
+user = root
+password = passwordD!
+email: daniel.dantas808@gmail.com
